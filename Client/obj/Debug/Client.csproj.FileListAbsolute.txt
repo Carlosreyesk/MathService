@@ -1,0 +1,9 @@
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\Client.exe.config
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\ApplicationInsights.config
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\Client.exe
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\Client.pdb
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\WcfService1.dll
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\bin\Debug\WcfService1.pdb
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\obj\Debug\Client.exe
+\\mac\home\documents\visual studio 2015\Projects\WcfService1\Client\obj\Debug\Client.pdb
